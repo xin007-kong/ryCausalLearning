@@ -2,6 +2,9 @@
 
 > 因果学习系列笔记
 
+> 这是我的 GitHub 因果学习笔记仓库
+> [https://github.com/xin007-kong/ryCausalLearning]()，欢迎 star🤩
+
 - 讲者是 Bernhard Schölkopf
   - talk 链接：[(41) Bernhard Schoelkopf | Towards Causal NLP | Keynote@EMNLP 2021 Causal Inference and NLP Workshop - YouTube](https://www.youtube.com/watch?v=Zwt1jJxVSvg&list=PLtVBX_ld338UTeq9LphgjCfMpM2EcSbEs&index=3)
   - 谷歌学术主页：[‪Bernhard Schölkopf‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ&hl=en)
